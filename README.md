@@ -36,3 +36,5 @@ RealNode加速器是一款高效稳定的VPN加速器，具有以下优点：
 
 # 官方网站
 - https://realnode.info/
+
+#备注：请务必收藏本页面，方便日后下载新版本（本页面为官方唯一防封下载发布页）Remarks: Please be sure to bookmark this page so that you can download new versions in the future (this page is the only official anti-blocking download release page)
