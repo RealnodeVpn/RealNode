@@ -29,12 +29,12 @@ RealNode加速器是一款高效稳定的VPN加速器，具有以下优点：
 
 ## 各个平台安装包下载
 
-- [Android](https://wwxa.lanzouy.com/igmKf0qovljc) 下载密码: 9d2y
-- [Windows](https://wwxa.lanzouy.com/i58jr0qow3ef)  下载密码: 5u8s
-- [Mac OS](https://wwxa.lanzouy.com/iREYL0qovcuj)   下载密码: aqb3
+- [Android](https://wwxa.lanzouk.com/realnodeapk-307)
+- [Windows](https://wwxa.lanzouk.com/realnodewin-403)
+- [Mac OS](https://wwxa.lanzouk.com/realnodemac-403)
 - IOS 敬请期待
 
 ## 官方网站
-- https://realnode.info/
+- https://realnode.app/
 
 ## 备注：请务必收藏本页面，方便日后下载新版本（本页面为官方唯一防封下载发布页）Remarks: Please be sure to bookmark this page so that you can download new versions in the future (this page is the only official anti-blocking download release page)
