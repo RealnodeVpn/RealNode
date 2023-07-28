@@ -45,9 +45,9 @@ Realnode加速器团队
 
 ## 各个平台安装包下载
 
-- [Android](https://wwxa.lanzouk.com/realnodeapk-307)
-- [Windows](https://wwxa.lanzouk.com/realnodewin-403)
-- [Mac OS](https://wwxa.lanzouk.com/realnodemac-403)
+- [Android](https://wwxa.lanzouk.com/iGIxH13r2gyj)
+- [Windows](https://wwxa.lanzouk.com/iGMuB13r2i1i)
+- [Mac OS](https://wwxa.lanzouk.com/iZD7i13r5eri)
 - IOS 敬请期待
 
 ## 官方网站
